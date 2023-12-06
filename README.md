@@ -1,1 +1,5 @@
-# NASA_APOD_Wallpaper
+# NASA APOD Wallpaper
+```
+py main.py
+```
+run this to get set wallpaper 
