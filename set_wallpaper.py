@@ -1,5 +1,4 @@
 import ctypes
-import os
 
 def setWallpaper(image_path):
     SPI_SETDESKWALLPAPER = 0x0014
