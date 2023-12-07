@@ -14,7 +14,7 @@ Automatically fetch and set the NASA Image of the Day as your Windows desktop wa
 
 1. **Clone the Repository:**
    ```
-   $ git clone https://github.com/KarthikeyanSuresh/nasa-iotd-wallpaper.git
+   $ git clone https://github.com/KarthikeyanSuresh/NASA_APOD_Wallpaper.git
    ```
 
 
